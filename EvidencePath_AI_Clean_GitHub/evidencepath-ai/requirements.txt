@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+faiss-cpu>=1.8,<2
+sentence-transformers>=3,<6
+transformers>=4.44,<5
+torch>=2.2,<3
+pypdf>=4,<7
+sentencepiece>=0.2,<1
+langchain-text-splitters>=0.3,<2

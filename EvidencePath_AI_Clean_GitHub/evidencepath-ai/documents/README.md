@@ -1,0 +1,1 @@
+Download the eight public papers by running `python scripts/download_documents.py` from the project root. The PDFs are downloaded directly from their original sources and are not bundled in this repository folder.

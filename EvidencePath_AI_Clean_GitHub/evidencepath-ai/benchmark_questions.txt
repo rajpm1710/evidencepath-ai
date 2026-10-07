@@ -1,0 +1,7 @@
+How does SQuAD 2.0 extend the SQuAD 1.1 problem definition in the BERT paper?
+What does the Transformer use instead of recurrence and convolutions in Attention Is All You Need?
+What network structures does Sentence-BERT use to derive semantically meaningful sentence embeddings?
+What is a chain of thought in the Chain-of-Thought Prompting paper?
+What can Tree of Thoughts do when necessary to make global choices?
+What is the exact surface temperature of the planet Neptune today?
+STOP
